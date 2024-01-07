@@ -56,7 +56,7 @@ def create_qa_chain():
     print("Vector DB created")
 
     # Create a retriever from the vector database
-    retriever = vectordb.as_retriever(search_kwargs={'k': 5})
+    retriever = vectordb.as_retriever(search_kwargs={'k': 4})
     print("Retriever created")
 
     # Create a retrieval-based QA system from the chain type

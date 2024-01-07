@@ -1,0 +1,33 @@
+// This is to log some progress with the models. 
+// Embedding model BAAI/bge-large-en-v1.5
+// Only Vector Semantic search with k=5
+//Chunk size 300 with 0 overlap
+
+
+Q. Maximum credits I can register per semester?
+
+A.  The maximum credits you can register per semester is 27. However, if your CGPA is below 4.00, you will only be permitted to register for a maximum of 20 credits in subsequent semesters until your CGPA crosses 4.00. You also have the option to re-register for courses in which you have obtained an 'F' or 'N' grade.
+
+// Added BM25 (k=2) with semantic search (40-60 split)
+Q. Maximum credits I can register per semester?
+
+A.  Based on the context provided, a student can register for a maximum of 27 credits per semester. However, it's important to note that if a student's CGPA falls below 4.00, they will only be permitted to register for a maximum of 20 credits in subsequent semesters until their CGPA crosses 4.00 again. Additionally, if a student chooses to audit an NPTEL course, that credit will not be considered within the maximum limit of 27 credits.
+
+//After loading more documents relating to PhD guidelines
+
+
+Q. Where can i find the template for guide papers?
+
+A.  You can find the template for guide papers on VTOP, under Faculty login, Spotlight, Academic Research, and in the Downloadable format section.
+
+Q. For scholars who are admitted in 2019, how many credits need to be earned?
+
+A.  Scholars who are admitted in 2019 need to earn a minimum of 17 credits to become eligible for 'Honours' in their Ph.D/M.Tech. (By Research) Programmes, at least one of which should have a lab or project component.
+
+Q. Which sites i can do online courses for ph.d?
+
+A.  Based on the context provided, you can do advanced level online courses for a Ph.D program from reputed platforms such as NPTEL, Coursera, Khan Academy, and edX.
+
+Q. minimum time duration for direct ph.d
+
+A.  Based on the provided context, there is no information given about the minimum time duration for a direct Ph.D. program. Therefore, I don't have an answer for that question.
