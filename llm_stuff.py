@@ -1,16 +1,14 @@
-import streamlit as st
 from langchain.llms import Ollama
 from langchain.callbacks.manager import CallbackManager
 from langchain.callbacks.streaming_stdout import StreamingStdOutCallbackHandler
-from langchain.embeddings import HuggingFaceEmbeddings
-from langchain.text_splitter import RecursiveCharacterTextSplitter
-from langchain.document_loaders import DirectoryLoader
-from langchain.document_loaders import TextLoader
 from langchain_community.document_loaders import PyPDFLoader
+from langchain.document_loaders import DirectoryLoader
+from langchain.text_splitter import RecursiveCharacterTextSplitter
+from langchain.embeddings import HuggingFaceEmbeddings
+from langchain.retrievers import BM25Retriever, EnsembleRetriever
 from langchain.vectorstores import Chroma
-import torch
 from langchain.chains import RetrievalQA
-
+import torch
 import gc
 def create_qa_chain():
     # Clear CUDA cache and perform garbage collection
@@ -24,7 +22,7 @@ def create_qa_chain():
         num_gpu=1,
         base_url="http://localhost:11434"
     )
-    modelPath = "BAAI/bge-small-en"
+    modelPath = "BAAI/bge-large-en-v1.5"
 
     # Create a dictionary with model configuration options, specifying to use the CPU for computations
     model_kwargs = {'device': 'cuda:0'}
@@ -38,10 +36,10 @@ def create_qa_chain():
     print("Embedding model loaded")
 
     # Load and split documents from the PDF
-    loader = PyPDFLoader("./data.pdf")
-    documents = loader.load_and_split()
+    loader = DirectoryLoader("./data", glob="*.pdf", loader_cls=PyPDFLoader)
+    documents = loader.load()
     print("Documents loaded")
-    text_splitter = RecursiveCharacterTextSplitter(chunk_size=200, chunk_overlap=0)
+    text_splitter = RecursiveCharacterTextSplitter(chunk_size=500, chunk_overlap=0)
     texts = text_splitter.split_documents(documents)
     print("Documents split")
 
@@ -56,20 +54,23 @@ def create_qa_chain():
     print("Vector DB created")
 
     # Create a retriever from the vector database
-    retriever = vectordb.as_retriever(search_kwargs={'k': 5})
+    retriever = vectordb.as_retriever(search_kwargs={'k': 7})
     print("Retriever created")
-
+    bm25_retriever = BM25Retriever.from_documents(texts)
+    bm25_retriever.k =  5
+    ensemble_retriever = EnsembleRetriever(retrievers=[bm25_retriever, retriever],
+                                       weights=[0.5, 0.5])
     # Create a retrieval-based QA system from the chain type
     qa_chain = RetrievalQA.from_chain_type(
         llm=llm,
-        retriever=retriever,
+        retriever=ensemble_retriever,
         return_source_documents=True
     )
 
     return qa_chain
 print("QA chain created")
-def process_llm_response(query):
-    qa_chain = create_qa_chain()
+def process_llm_response(query, qa_chain):
+    # qa_chain = create_qa_chain()
     llm_response = qa_chain(query)
     return llm_response['result']
 
