@@ -1,5 +1,4 @@
 from typing import Union
-
 from fastapi import FastAPI, Request
 from llm_stuff import create_qa_chain, process_llm_response
 

@@ -1,0 +1,88 @@
+If a student has CGPA less than 4.0, what all to advise the students?
+
+
+ If a student has a CGPA less than 4.0, they will be advised to register for a maximum of 20 credits in subsequent semesters until their CGPA crosses 4.0. They also have the option to re-register for courses in which they obtained an 'F' or 'N' grade. However, if they fail to improve their academic performance, their studentship with the University may be cancelled. The student may also choose to audit a course not listed in their programme curriculum without undergoing the rigors of getting a good grade. Students with CGPA 9.0 and above and no current backlog courses are exempted from minimum attendance requirements. If a student fails to register the minimum number of courses in any semester, their studentship with the University may be cancelled. The student has the option to use options like registering for failed 'Honours' courses again or grade improvement to improve grades obtained in 'Honours' courses and raise the CGPA to the required level if they complete a project work substantially advanced than expected, it may be referred to a high-profile Committee for the 'Honours' award. If a student fails to meet the minimum grade requirement, they will be awarded an 'E' grade and declared as pass. Under such circumstances, the maximum of the grade band shall not exceed 100%.
+If a student had a plan to Semester Abroad Program, what all advise to give students?
+
+
+ If a student is planning to participate in VIT University's Semester Abroad Program, here are some advices:
+
+1. During the first semester of their program, students should register for courses according to the guidance received from their HoD/Program Chair during orientation. This may include taking bridge courses if needed.
+2. For Semester Abroad, students should attend the roadshow organized by the Office of International Relations and choose universities and courses carefully. They may be offered more courses than usual and should register for those that meet their requirements or are of interest to them.
+3. Students must ensure they register for the minimum number of courses each semester to maintain their enrollment with the University.
+4. If a student fails to clear a course, they may have the opportunity to take another course instead in subsequent semesters and pay re-registration charges. However, if they receive an 'F' grade in a UE (University Elective) course, they may be required to retake that specific course.
+5. Some courses may have prerequisites that must be completed before registration. Students should ensure they have met all prerequisites at the time of course registration or make arrangements to do so if necessary.
+6. Students who miss the CAT (Computer-Based Test) for any reason can take a supplementary CAT, subject to approval by the School Dean.
+Medical policy advises to students
+
+
+ The medical policy advises students who are absent from classes due to prolonged illness or other valid reasons beyond 25% of the semester, to request for a 'Break of Study' and provide a proper medical certificate authenticated by the Chief Medical Officer. In case of absence during a Final Adjudication Theory/Student Project examination due to hospitalization or death of a family member, students may apply to the Vice Chancellor with supporting documents. For temporary breaks in study due to valid reasons such as accident or prolonged ill health, students may be recommended by their programme School and approved by the Dean, Academics. No formal approval from the Academic Council is required for the cancellation of such studentships. Additionally, students and faculty members involved in research are requested not to change settings in Turnitin software or the documents given, and must follow research integrity as per VIT policy. Applications for waivers related to medical certificates must be submitted within 14 days after completion of the examination. The JCR-Clarivate report quartile rankings have been used as an indicator to finalize the policy guidelines.
+How to give attendance during sectional holidays 
+
+
+ To give attendance during sectional holidays as indicated in the context, a student is required to submit a request to their HoD or Program Chair through the Proctor for consideration. These sectional holidays are declared as instructional days, and students who avail of them need to submit an attendance request despite being considered absences. However, medical, personnel, casual, official leave for organizing events or any other valid reason is included in the 25% absence limit, beyond which a student may be advised to request a 'Break of Study' on medical grounds. It's important to note that for summer/intersession semesters, students are required to maintain the minimum 75% attendance despite no exemptions being applicable during these periods.
+What are the minimum and maximum credits to be registered 
+
+
+ The minimum number of credits to be registered in a semester is 16, and the maximum number is 27, except for the last registration of a program where a student may register less than 16 credits to meet the minimum credit requirements. For summer/intersession/weekend semesters, the number of credits to be registered ranges from 6 to 8 or 2 courses, whichever is less, but in special cases, a student may be permitted to register a maximum of 12 credits with the approval of the Proctor and School Dean.
+What preparation is needed for FFCS
+
+
+ To prepare for the Fully Flexible Credit System (FFCS) in VIT University, you need to consider the following:
+
+1. Academic Preparation: Maintain a good academic record with a minimum CGPA of 7.0 and no current backlogs.
+2. Curriculum Planning: Familiarize yourself with the available courses under various departments and plan your semester-wise course selection based on program requirements, course prerequisites, and personal interests.
+3. Time Management: Since FFCS offers flexibility in timings and course selection, it's essential to develop effective time management skills to ensure you complete your chosen credits within the stipulated duration (minimum one semester and maximum two semesters).
+4. Research Preparation: If you plan to undertake a research project or thesis as part of your FFCS degree, identify a suitable research guide and prepare a synopsis/oral claim form for submission to the Academic Research office.
+5. Documentation: Ensure all required documents such as vouchers/bills (travel and accommodation) are uploaded in PeopleOrbit for offline arrangements. However, attachment for remuneration is not needed if the meting is conducted through an online mode.
+How to do grade improvement
+
+
+ To do grade improvement, you need to register for the same course again during a subsequent Course Registration process. However, this is only allowed in regular Fall semester or Regular Winter semester, and you will have to pay fees for the grade improvement. Only one grade improvement is allowed per semester for all students except final year students, who can apply for more than one. You can find the payment link against the course in your timetable after the invoice generation, and you need to pay within three days of invoice generation or generate a new invoice if you miss the deadline.
+How to be enroll for placement
+
+
+ To enroll for placement, you need to satisfy the following conditions:
+1. Your CGPA should be greater than or equal to 8.0.
+2. You should have taken prior permission from the School Dean before availing the internship.
+3. You should meet the minimum attendance requirement.
+4. You can register for placement during your regular PG course enrollment on VTOP as and when offered. For any clarification, you may contact the School Dean.
+
+However, the text does not mention anything about the procedure to apply for placement registration directly. It only mentions the conditions to be eligible for it.
+Please brief on the MIT curriculum 
+
+
+ The MIT curriculum consists of courses grouped into University Core (UC), Program Core (PC), Program Elective (PE), and University Elective (UE) categories. Courses under University Core are mandatory for all similar degree programs and offer a project-based learning approach, interdisdisciplinary opportunities, flexibility for slow learners, optional summer/intersession semesters, research experience, value addition with double major or honors, and branch change options for high performers. Both the Bachelor of Technology (B.Tech) program and the Applied Learning (CAL) curriculum follow this structure to provide students with multidisciplinary exposure and opportunities to enhance communication, soft skills, management, and technical skills. The curriculum includes course objectives, expected outcomes, modules, duration, suggested textbooks, and syllabus approval dates.
+
+For PhD programs admitted till 2018, students are required to complete four courses with a minimum of 12 credits or refer to the VTOP for options. Integrated PhD students must complete eight courses with a minimum of 25 credits. PG level courses should not have been studied by scholars in their previous PG program. The curriculum is subject to change and students must follow the prescribed curriculum for their academic year, unless stated otherwise by the Academic Council. Enrolment and registration for Research Methodology and Research and Publication Ethics can be done prior to approval from the Academic Council, but scholars must pay online for registered courses before the deadline.
+Who is the president of USA?
+
+
+ I cannot answer that question directly based on the context provided. The context is about academic queries related to VIT University, and there is no information given about the USA president in it.
+How can I process my visa?
+
+
+ To process your visa, you may need to follow these general steps:
+
+1. Apply for admission and registration at VIT University by completing the required procedures as mentioned in the FAQs provided above.
+2. Once admitted, apply for a Student Visa by providing all necessary documents, such as an acceptance letter from VIT University, proof of payment of tuition fees, and other required documents.
+3. Pay the visa application fee using the specified mode of payment.
+4. Attend an interview at the Indian embassy or consulate in your home country or another country if you're applying for a change of status or extension of your current visa.
+5. Wait for the processing time, which may vary depending on individual cases and the specific embassy or consulate.
+6. Once approved, collect your visa or have it delivered to you by courier service.
+
+For more detailed information about visa requirements and procedures, contact the Indian embassy or consulate in your home country or another country where you're applying for the visa.
+Am I eligible to get an interaction with MIT professor
+
+ To determine your eligibility for an interaction with a MIT professor, you should first check if your academic record meets the required standards. As per the context provided, there is no direct mention of any specific criteria for interacting with MIT professors. However, I can suggest some general steps you can take to increase your chances:
+
+1. Check if you have completed all the courses listed under Program Core and Electives in your curriculum. These are essential for becoming eligible for the degree.
+2. Maintain a good academic record. The minimum passing marks required in FAT theory and overall are 40/100 and there is no mention of any grace marks or waivers.
+3. Be an active participant in research and publication activities within your school, as well as adhering to the ethics of taught courses.
+4. Utilize the resources available at VIT for academic growth and queries, such as contacting the Academic Coordinator, CDC, VTOP, Examination helpdesk, or Finance helpdesk for specific issues.
+5. Look for opportunities within your school to engage with visiting professors or researchers from MIT or other reputed institutions. You can also apply for student exchange programs or scholarships to study abroad.
+6. Network and collaborate with fellow students and faculty members on research projects and group studies to build a strong academic profile.
+7. Stay updated on the latest developments in your field of study by reading relevant journals, books, and attending seminars or conferences.
+8. Be persistent and proactive in seeking opportunities for interaction with MIT professors, whether through emails, letters, or visiting their campus during workshops or symposiums.
+
+By following these steps, you'll be better prepared to take advantage of any opportunities that come your way and increase your chances of interacting with MIT professors. Remember, academic success is a journey, not a destination, so keep striving for improvement every day.
